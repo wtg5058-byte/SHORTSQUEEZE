@@ -46,6 +46,7 @@ run file: main.py
 ## 📁 Project Structure
 
 ScreenerProject/
+
 ├── core/
 
 │   ├── filters.py
