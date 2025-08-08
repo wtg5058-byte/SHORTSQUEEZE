@@ -4,7 +4,7 @@ import io
 import csv
 
 # Replace this with your actual API token
-FINVIZ_API_KEY = "d20e04ee-c9dd-4077-bac0-6139037bafd2"
+FINVIZ_API_KEY = "YOUR API TOKEN HERE"
 
 # Fetches live Finviz screener CSV data using the Elite export endpoint
 def fetch_finviz_data():
