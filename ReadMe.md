@@ -47,23 +47,41 @@ run file: main.py
 
 ScreenerProject/
 ├── core/
+
 │   ├── filters.py
+
 │   ├── finviz_api.py
+
 │   └── sentiment.py
+
 ├── controller/
+
 │   └── controller.py
+
 ├── ui/
+
 │   └── view.py
+
 ├── model/
+
 │   ├── sentiment_model.pkl
+
 │   └── sentiment_vectorizer.pkl
+
 ├── tests/
+
 │   └── test_filters.py
+
 ├── data/
+
 │   ├── labeled_data.csv
+
 │   └── prime_log.csv
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 
