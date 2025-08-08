@@ -49,35 +49,35 @@ ScreenerProject/
 
 ├── core/
 
-│   ├── filters.py
+│       ├── filters.py
 
-│   ├── finviz_api.py
+│       ├── finviz_api.py
 
-│   └── sentiment.py
+│       └── sentiment.py
 
 ├── controller/
 
-│   └── controller.py
+│       └── controller.py
 
 ├── ui/
 
-│   └── view.py
+│       └── view.py
 
 ├── model/
 
-│   ├── sentiment_model.pkl
+│       ├── sentiment_model.pkl
 
-│   └── sentiment_vectorizer.pkl
+│       └── sentiment_vectorizer.pkl
 
 ├── tests/
 
-│   └── test_filters.py
+│       └── test_filters.py
 
 ├── data/
 
-│   ├── labeled_data.csv
+│       ├── labeled_data.csv
 
-│   └── prime_log.csv
+│       └── prime_log.csv
 
 ├── main.py
 
